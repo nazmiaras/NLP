@@ -1,7 +1,7 @@
 # NPL
 This is my first npl project .
 
-#Confusion Matrix Result
+# Confusion Matrix Result
 [[54 43]
 [12 91]]
 
