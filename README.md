@@ -1,5 +1,5 @@
-# NPL
-This is my first npl project .
+# NLP
+This is my first nlp project .
 
 # Confusion Matrix Result
 
